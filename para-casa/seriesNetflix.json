@@ -4,7 +4,7 @@
     "titulo": "Black Sails",
     "genero": "Ficção Científica",
     "autor": ["Robert Levine", "Jonathan Steinberg"],
-    "ano": "2014"
+    "ano": 2014
   },
 
   {
@@ -12,7 +12,7 @@
     "titulo": "La Casa de Papel",
     "genero": "Policial",
     "autor": "Álex Pina",
-    "ano": "2017"
+    "ano": 2017
   },
 
   {  
@@ -20,7 +20,7 @@
     "titulo": "Peaky Blinders: Sangue, Apostas e Navalhas",
     "genero": "Drama",
     "autor": "Steven Knight",
-    "ano": "2013"
+    "ano": 2013
   },
 
   { 
@@ -28,7 +28,7 @@
     "titulo": "Black Mirror",
     "genero": "Ficção Científica",
     "autor": "Charlie Brooker",
-    "ano": "2011"
+    "ano": 2011
   },
 
   { 
@@ -36,7 +36,7 @@
     "titulo": "Vikings",
     "genero": "Épico",
     "autor": "Michael Hirst",
-    "ano": "2013"
+    "ano": 2013
   },
 
   { 
@@ -44,7 +44,7 @@
     "titulo": "Dark",
     "genero": "Suspense",
     "autor": ["Baran bo Odar", "Jantje Friese"],
-    "ano": "2017"
+    "ano": 2017
   }, 
 
   {
@@ -52,7 +52,7 @@
     "titulo": "House of Cards",
     "genero": "Drama Político",
     "autor": "Beau Willimon",
-    "ano": "2013"
+    "ano": 2013
   },
 
   { 
@@ -60,7 +60,7 @@
     "titulo": "The Alienist",
     "genero": "Drama Policial",
     "autor": ["Hossein Amini", "John Sayles", "Gina Gionfrido", "Cary Joji Fukunaga"],
-    "ano": "2018" 
+    "ano": 2018
   },
 
   {
@@ -68,7 +68,7 @@
     "titulo": "Narcos",
     "genero": "Drama Policial",
     "autor": ["Chris Brancato", "Carlo Bernard", "Doug Miro"],
-    "ano": "2015"
+    "ano": 2015
   },
 
   { 
@@ -76,6 +76,6 @@
     "titulo": "Breaking Bad",
     "genero": "Suspense",
     "autor": "Vince Gilligan",
-    "ano": "2018"
+    "ano": 2018
   }
 ]

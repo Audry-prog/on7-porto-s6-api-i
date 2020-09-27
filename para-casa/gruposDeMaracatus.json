@@ -2,43 +2,43 @@
   {
    "id": 1,
    "nome": "Maracambuco",
-   "anoDeFundacao": "1993",
+   "anoDeFundacao": 1993,
    "estilo": "Nação",
-   "numeroDeIntegrantes": "100",
+   "numeroDeIntegrantes": 100,
    "cidadeSede": "Olinda"
   },
 
   {
    "id": 2,
    "nome": "Elefante",
-   "anoDeFundacao": "1800",
+   "anoDeFundacao": 1800,
    "estilo": "Nação",
-   "numeroDeIntegrantes": "150",
+   "numeroDeIntegrantes": 150,
    "cidadeSede": "Recife"
   },
 
   {
     "id": 3,
     "nome": "Estrela Brilhante",
-    "anoDeFundacao": "1906",
+    "anoDeFundacao": 1906,
     "estilo": "Nação",
-    "numeroDeIntegrantes": "42",
+    "numeroDeIntegrantes": 42,
     "cidadeSede": "Igarassu"
   },
 
   {
     "id": 4,
     "nome": "Leão Coroado",
-    "anoDeFundacao": "1863",
+    "anoDeFundacao": 1863,
     "estilo": "Nação",
-    "numeroDeIntegrantes": "81",
+    "numeroDeIntegrantes": 81,
     "cidadeSede": "Recife"
   },
 
   {
     "id": 5,
     "nome": "Cruzeiro do Forte",
-    "anoDeFundacao": "1929",
+    "anoDeFundacao": 1929,
     "estilo": "Rural",
     "numeroDeIntegrantes": "",
     "cidadeSede": "Recife"
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "nome": "Estrela de Ouro de Aliança",
-    "anoDeFundacao": "1966",
+    "anoDeFundacao": 1966,
     "estilo": "Rural",
     "numeroDeIntegrantes": "",
     "cidadeSede": "Aliança"
@@ -56,16 +56,16 @@
   {
     "id": 7,
     "nome": "Águia Formosa de Tracunhaém",
-    "anoDeFundacao": "1999",
+    "anoDeFundacao": 1999,
     "estilo": "Rural",
-    "numeroDeIntegrantes": "140",
+    "numeroDeIntegrantes": 140,
     "cidadeSede": "Tracunhaém"
   },
 
   {
     "id": 8,
     "nome": "Carneiro Manso",
-    "anoDeFundacao": "1950",
+    "anoDeFundacao": 1950,
     "estilo": "Rural",
     "numeroDeIntegrantes": "",
     "cidadeSede": "Glória do Goitá"
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "nome": "Aurora Africana",
-    "anoDeFundacao": "2001",
+    "anoDeFundacao": 2001,
     "estilo": "Nação",
     "numeroDeIntegrantes": "",
     "cidadeSede": "Jaboatão dos Guararapes"
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "nome": "Maracatudo Camaleão",
-    "anoDeFundacao": "2003",
+    "anoDeFundacao": 2003,
     "estilo": "Nação",
     "numeroDeIntegrantes": "",
     "cidadeSede": "Olinda"

@@ -5,7 +5,7 @@
     "origem": "Reino Unido",
     "genero": "Rock Psicodélico",
     "integrantes": ["David Gilmour", "Syd Barrett", "Roger Waters", "Richard Wright", "Nick Mason", "Bob Klose"],
-    "ano":"1965"
+    "ano":1965
   },
 
   {
@@ -14,7 +14,7 @@
     "origem": "Austrália",
     "genero": ["Pop", "Soul", "Disco"],
     "integrantes": ["Barry Gibb", "Robin Gibb", "Maurice Gibb"],
-    "ano": "1958"
+    "ano": 1958
   },
 
   {
@@ -23,7 +23,7 @@
     "origem": "Inglaterra",
     "genero": ["Rock", "Blues"],
     "integrantes": ["Brian Jones", "Mick Jagger", "Keith Richards", "Bill Wyman", "Charlie Watt", "Ian Stewart"], 
-    "ano": "1962"
+    "ano": 1962
   },
 
   {
@@ -32,7 +32,7 @@
     "origem": "Irlanda",
     "genero": ["Rock Alternativo","Pós-Punk"],
     "integrantes": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr.", "Ivan McCormick", "Dick Evans", "Peter Martin"],
-    "ano": "1976"
+    "ano": 1976
   },
 
   {
@@ -41,7 +41,7 @@
     "origem": "Reino Unido",
     "genero": ["Rock Alternativo","Post-britpop", "Rock"],
     "integrantes": ["Chris Martin", "Will Champion", "Guy Berryman", "Phil Harvey", "Jonny Buckland"],
-    "ano": "1996"
+    "ano": 1996
   },
 
   {
@@ -50,7 +50,7 @@
     "origem": "Reino Unido",
     "genero": "Rock",
     "integrantes": ["Freddie Mercury", "Brian May", "John Deacon", "Roger Meddows-Taylor", "Mike Grose", "Doug Fogie", "Barry Mitchell"],
-    "ano": "1970"
+    "ano": 1970
   },
 
   {
@@ -59,7 +59,7 @@
     "origem": "Estados Unidos",
     "gênero": ["Hard rock", "Heavy metal"],
     "integrantes": ["Axl Rose", "Slash", "Duff McKagan", "Izzy Stradlin"],
-    "ano": "1985"
+    "ano": 1985
   },
 
   {
@@ -68,7 +68,7 @@
     "origem": "Suécia",
     "geenero": ["Música Pop", "Pop Rock", "Disco"],
     "integrantes": ["Benny Andersson", "Björn Ulvaeus", "Anni‑Frid Lyngstad", "Agnetha Fältskog"],
-    "ano": "1972"
+    "ano": 1972
   },
 
   {
@@ -77,7 +77,7 @@
     "origem": "Suécia",
     "genero": ["Metal Alternativo", "Rock Alternativo"],
     "integrantes":["Amy Lee", "Tim McCord", "Will Hunt", "Troy McLawhorn", "Jen Majura"],
-    "ano": "1995"
+    "ano": 1995
   },
 
   {
@@ -86,6 +86,6 @@
     "origem": "Brasil",
     "genero": ["Rock alternativo", "Música de vanguarda", "MPB"],
     "integrantes": ["Arnaldo Antunes", "Carlinhos Brown", "Marisa Monte"],
-    "ano": "2002"
+    "ano": 2002
   }
 ]
